@@ -1,1 +1,1 @@
-Пример работающего бота в телеграмме https://t.me/MobileQueue_bot
+Пример работающего бота в телеграмме https://tele.click/MobileQueue_bot
